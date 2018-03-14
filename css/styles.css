@@ -16,3 +16,10 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
+body{
+  background-color: wheat;
+}
+p {
+  border: solid;
+  border-color: blue;
+}
